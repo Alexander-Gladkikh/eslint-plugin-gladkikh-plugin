@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-gladkikh-plugin",
-  "version": "0.0.7",
+  "version": "0.1.1",
   "description": "plugin for production project",
   "keywords": [
     "eslint",
